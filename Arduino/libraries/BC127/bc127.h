@@ -1,3 +1,15 @@
+/****************************************************************
+Core header file for BC127 module support
+
+This code is beerware; if you use it, please buy me (or any other
+SparkFun employee) a cold beverage next time you run into one of
+us at the local.
+
+238 Jan 2014- Mike Hord, SparkFun Electronics
+
+Code developed in Arduino 1.0.5, on an Arduino Pro Mini 5V.
+****************************************************************/
+
 #ifndef BC127_h
 #define BC127_h
 
