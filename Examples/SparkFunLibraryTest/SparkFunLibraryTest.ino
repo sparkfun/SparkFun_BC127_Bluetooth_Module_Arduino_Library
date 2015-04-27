@@ -12,7 +12,7 @@ us at the local.
 Code developed in Arduino 1.0.5, on an Arduino Pro Mini 3.3V.
 ****************************************************************/
 
-#include <bc127.h>
+#include <SparkFunbc127.h>
 #include <SoftwareSerial.h>
 
 SoftwareSerial swPort(3,2);  // RX, TX

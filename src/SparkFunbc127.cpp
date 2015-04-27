@@ -10,7 +10,7 @@ us at the local.
 Code developed in Arduino 1.0.5, on an Arduino Pro Mini 5V.
 ****************************************************************/
 
-#include "bc127.h"
+#include "SparkFunbc127.h"
 #include <Arduino.h>
 
 // Constructor. All we really need to do is link the user's Stream instance to

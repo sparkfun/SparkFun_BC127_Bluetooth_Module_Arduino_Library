@@ -14,7 +14,7 @@ Code developed in Arduino 1.0.5, on an Arduino Pro Mini 3.3V.
 
 // Include the two libraries we need to use this; I'm using a software serial port
 //  because time-sharing the hardware port with uploading code is a pain.
-#include <bc127.h>
+#include <SparkFunbc127.h>
 #include <SoftwareSerial.h>
 
 // Create a software serial port.
