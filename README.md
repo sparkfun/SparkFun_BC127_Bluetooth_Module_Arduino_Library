@@ -4,9 +4,9 @@ BC127 Bluetooth Module Library
 General purpose Arduino library for the BC127 module by BlueCreation.
 
 [![BC127 Breakout Board](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/9/2/7/11927-01_medium.jpg)  
-*BC127 Breakout Board*](https://www.sparkfun.com/products/11927)
+*BC127 Breakout Board*](https://www.sparkfun.com/products/11927)  
 [![PurpleTooth Jamboree](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/9/2/4/11924-01_medium.jpg)  
-*PurpleTooth Jamboree*](https://www.sparkfun.com/products/11924)
+*PurpleTooth Jamboree*](https://www.sparkfun.com/products/11924)  
 
 Arduino library and example files for the [BC127 Breakout Board](https://www.sparkfun.com/products/11927) and the [PurpleTooth Jamboree](https://www.sparkfun.com/products/11924).
 
