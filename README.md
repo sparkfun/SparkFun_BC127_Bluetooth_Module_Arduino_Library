@@ -7,7 +7,7 @@ SparkFun BC127 Bluetooth Module Arduino Library
    <td><a href="https://www.sparkfun.com/products/11924"><div align="center"><img src="https://cdn.sparkfun.com//assets/parts/8/3/8/0/11924-01.jpg" title="SparkFun Purpletooth Jamboree - BC127 Development Board"></div></a></td>
   </tr>
   <tr>
-    <td><div align="center">BC127 Breakout Board [<a href="https://www.sparkfun.com/products/11927">WRL-11927</a> ]</div></td>
+    <td><div align="center">BC127 Breakout Board [<a href="https://www.sparkfun.com/products/11927">WRL-11927</a>]</div></td>
     <td><div align="center">SparkFun Purpletooth Jamboree - <br/ > BC127 Development Board [<a href="https://www.sparkfun.com/products/11924">WRL-11924</a>]</div></td>
   </tr>
 </table>
